@@ -1,0 +1,5 @@
+@import "tailwindcss";
+:root { color-scheme: light; }
+body { margin: 0; background: #f3f5f7; color: #17202d; font-family: Arial, sans-serif; }
+button, select, input { font: inherit; }
+button:focus-visible, select:focus-visible, input:focus-visible { outline: 3px solid #2563eb; outline-offset: 3px; }
